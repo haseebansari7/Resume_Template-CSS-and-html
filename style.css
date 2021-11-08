@@ -1,0 +1,24 @@
+.laftSide{
+	background: #3d3d29;
+	color: white;
+}
+.subHeading{
+	background: #1f1f14;
+}
+.first-li{
+	text-decoration: none;
+	list-style: none;
+	font-size: 25px;
+	font-weight: bold;
+}
+.form-group{
+	margin-left: 10px;
+}
+.unlist{
+	margin-left: 100px;
+}
+.sub-span{
+	font-size: 22px;
+	font-weight: bold;
+	margin-left: 40px;
+}
